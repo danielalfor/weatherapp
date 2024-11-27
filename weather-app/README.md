@@ -13,6 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
+<!-- If policy error when running server, use this temp bypass -->
+<!-- Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -->
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
